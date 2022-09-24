@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "121379589080",
+    "project_id": "agenda-linea-app",
+    "storage_bucket": "agenda-linea-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121379589080:android:9d7ab9b457c63ecd3f00ad",
+        "android_client_info": {
+          "package_name": "com.intrigagm.agenda_en_linea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121379589080-4qip264dkgha801pp5d9mjgsgcqhqdgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intrigagm.agenda_en_linea",
+            "certificate_hash": "410f9d4abfb2191ee46b4e522b4dace6ed41ac8c"
+          }
+        },
+        {
+          "client_id": "121379589080-069vqiql3vmd41ibu5iukjj5olb8clba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASL3gbKkKOWtOwBLkYf3JbYMsPgB4zGE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121379589080-069vqiql3vmd41ibu5iukjj5olb8clba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
