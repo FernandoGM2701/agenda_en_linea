@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Agenda en línea</string>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
 </resources>
